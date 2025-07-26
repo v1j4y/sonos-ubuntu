@@ -14,7 +14,7 @@ sudo apt-get install noson-app
 sudo apt install pavucontrol
 ```
 
-3. setup pulseaudio
+3. Setup pulseaudio
 ```bash
 systemctl --user unmask pulseaudio.{service,socket} --now
 systemctl --user start pulseaudio
