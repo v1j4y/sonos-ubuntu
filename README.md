@@ -20,7 +20,7 @@ systemctl --user unmask pulseaudio.{service,socket} --now
 systemctl --user start pulseaudio
 ```
 
-4. NOSON-APP
+4. Start noson server to stream to sonos device
 ```bash
 noson-app -cli
 connect ${SONOS_SPEAKER_NAME)
