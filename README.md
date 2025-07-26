@@ -1,5 +1,5 @@
-Simple steps to stream auto to sonos on ubuntu 20.04
-====================================================
+Simple steps to stream audio to sonos on ubuntu 20.04
+=====================================================
 
 1. Download noson-app
 
