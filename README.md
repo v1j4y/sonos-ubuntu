@@ -28,14 +28,18 @@ playpulse
 ```
 
 5. Set default output `pacmd` & `pavucontrol`
-```bash
-pacmd list-sinks
-```
-should show `noson-cli` as sink
+  ```bash
+  pacmd list-sinks
+  ```
+ - should show `noson-cli` as sink
 
-start gui using
-```bash
-pavucontrol
-```
+ - start gui using
+  ```bash
+  pavucontrol
+  ```
 
-select noson as sink.
+  - select noson as sink.
+
+6. Play music
+
+7. profit !
